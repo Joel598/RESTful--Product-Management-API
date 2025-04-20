@@ -164,7 +164,3 @@ All errors are logged using the built-in `logging` module.
 - Logging and Exception Handling
 
 ---
-
-## 📧 Contact
-
-Feel free to reach out if you have any questions or improvements!
