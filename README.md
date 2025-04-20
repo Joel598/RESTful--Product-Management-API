@@ -1,8 +1,9 @@
 # 🛍️ RESTful API for sample Product Management System
 
 This is a RESTful API for managing products in an inventory system using **Flask**, **PostgreSQL**, and **SQLAlchemy**. It supports CRUD operations, with input validation and logging.
-A RESTful API (Representational State Transfer) is an architectural style for designing networked applications. It uses standard HTTP methods (like GET, POST, PUT, DELETE) to perform operations on resources (usually represented as JSON objects).
 ---
+A RESTful API (Representational State Transfer) is an architectural style for designing networked applications. It uses standard HTTP methods (like GET, POST, PUT, DELETE) to perform operations on resources (usually represented as JSON objects).
+
 
 ## 🚀 Setup Instructions
 
